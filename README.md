@@ -1,1 +1,1 @@
-# comments.friskit-china.github.io
+## This repository contains nothing but the comments of my blog
